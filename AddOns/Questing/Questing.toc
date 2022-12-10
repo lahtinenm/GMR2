@@ -1,0 +1,19 @@
+## Title: Questing
+## Interface: 100002
+## Dependencies: Array, Set, Object, Coroutine, Boolean, Movement, Tooltips, Events, Compatibility, GMR, HWT, Unlocker, Core, Function, Yielder
+## SavedVariables: exploredObjects
+## SavedVariablesPerCharacter: QuestingPointToMove, QuestingPointToShow, QuestingOptions, QuestingGoodsVendorNPCs, QuestingSellVendors, QuestingRepairerNPCs
+
+namespace.lua
+VendoringFix.lua
+data/retail/quests.lua
+data/retail/quest_giver_npc_ids.lua
+data/retail/flight_master_npc_ids.lua
+data/retail/NPCs.lua
+data/retail/questItems.lua
+Database.lua
+Questing.lua
+QuestingCoroutine.lua
+learningToRide.lua
+Questing2.lua
+ClosestNPCUpdater.lua

@@ -1,0 +1,5 @@
+## Title: A-Star
+## Interface: 30400
+## Dependencies: Coroutine, Yielder, Movement, BinaryHeap, Array, HWT
+
+AStar.lua
